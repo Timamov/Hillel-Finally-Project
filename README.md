@@ -1,3 +1,3 @@
 # Hillel-Finally-Project
 
-## uvicorn turn-on:app --reload (сommand)
+## uvicorn turn-on:app --reload --port 5000 (сommand)
